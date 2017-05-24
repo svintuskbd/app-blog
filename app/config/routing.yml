@@ -1,0 +1,4 @@
+admin_dasboard:
+    resource: "@AdminDasboardBundle/Controller/"
+    type:     annotation
+    prefix:   /
